@@ -134,7 +134,7 @@ def args_coarse():
     )
 
     parser.set_defaults(
-        x_dim=300, mfbn_dir="/home/nicolas/code/mfbn/input/",
+        x_dim=300, mfbn_dir="mfbn_coarsening/input/",
         graphs_dir="data/graphs/", models_dir="models/",
         train_test_info_dir="data/train_test_info/",
         max_level=None
