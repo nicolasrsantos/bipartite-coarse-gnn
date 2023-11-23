@@ -57,15 +57,19 @@ The following arguments allow the modification of the GNN's hyperparameters:
 
 - `--lr`
 
+    Modifies the model's learning rate.
+  
     Default: `1e-3`
 
 - `--batch_size`
 
+    Controls our method's batch size.
+  
     Default: `32`
 
 - `--hidden_dim`
 
-    Number of dim
+    Number of dimensions used on GraphSAGE. 
 
     Default: `256`
 
