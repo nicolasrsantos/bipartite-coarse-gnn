@@ -105,7 +105,19 @@ The following arguments allow the modification of the GNN's hyperparameters:
 
 ## Reference
 
-This section will be updated once the paper is available on Springer.
+```
+@InProceedings{santos2024bipartitecoarseGNN,
+    author="dos Santos, N{\'i}colas Roque and Minatel, Diego and Valejo, Alan Dem{\'e}trius Baria and de A. Lopes, Alneu",
+    editor="Vasconcelos, Ver{\'o}nica and Domingues, In{\^e}s and Paredes, Sim{\~a}o",
+    title="Bipartite Graph Coarsening for Text Classification Using Graph Neural Networks",
+    booktitle="Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications",
+    year="2024",
+    publisher="Springer Nature Switzerland",
+    address="Cham",
+    pages="589--604",
+    isbn="978-3-031-49018-7"
+}
+```
 
 ## Acknowledgements
 
